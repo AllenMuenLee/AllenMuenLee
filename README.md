@@ -33,6 +33,22 @@ Quantum extension of scalar LSTM (sLSTM / xLSTM) replacing classical gate projec
 
 ---
 
+## Featured Product
+
+### [Etonia — Handwriting Notes, AI Plotting & Study Desk](https://etoniaapp.github.io)
+
+[![Website](https://img.shields.io/badge/Website-etoniaapp.github.io-2F6F4E?style=flat&logo=googlechrome&logoColor=white)](https://etoniaapp.github.io)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+
+Cross-platform handwriting notebook for iPad, iPhone, and Android that pairs low-latency ink capture with on-page AI tutoring and plotting.
+
+- **AI Plot & Handwritten Steps:** Circle handwritten equations to plot coordinate axes, curves, roots, and extrema alongside stroke-calibrated solution steps directly on the canvas.
+- **Study Desk & Practice Studio:** Socratic AI tutor grounded in your notes and PDFs, linked reading highlights, and automated practice test grading.
+- **Core Notebook:** 100% free core handwriting experience with zero ads, adaptive stroke smoothing, and Goodnotes import via Google Drive.
+
+---
+
 ## Core Focus
 
 - **Quantum Machine Learning:** Variational Quantum Circuits (VQCs), PennyLane, PyTorch hybrid training
