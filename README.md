@@ -33,11 +33,11 @@ Quantum extension of scalar LSTM (sLSTM / xLSTM) replacing classical gate projec
 
 ---
 
-## Featured Product
+## Featured Products & Tools
 
-### [Etonia — Handwriting Notes, AI Plotting & Study Desk](https://etoniaapp.github.io)
+### [Etonia — Handwriting Notes, AI Plotting & Study Desk](https://etoniaapp.github.io/)
 
-[![Website](https://img.shields.io/badge/Website-etoniaapp.github.io-2F6F4E?style=flat&logo=googlechrome&logoColor=white)](https://etoniaapp.github.io)
+[![Website](https://img.shields.io/badge/Website-etoniaapp.github.io-2F6F4E?style=flat&logo=googlechrome&logoColor=white)](https://etoniaapp.github.io/)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
@@ -46,6 +46,20 @@ Cross-platform handwriting notebook for iPad, iPhone, and Android that pairs low
 - **AI Plot & Handwritten Steps:** Circle handwritten equations to plot coordinate axes, curves, roots, and extrema alongside stroke-calibrated solution steps directly on the canvas.
 - **Study Desk & Practice Studio:** Socratic AI tutor grounded in your notes and PDFs, linked reading highlights, and automated practice test grading.
 - **Core Notebook:** 100% free core handwriting experience with zero ads, adaptive stroke smoothing, and Goodnotes import via Google Drive.
+
+---
+
+### [FLOWD — Visual Flowchart-to-Code Desktop IDE](https://github.com/AllenMuenLee/Flowd)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-AllenMuenLee%2FFlowd-181717?style=flat&logo=github)](https://github.com/AllenMuenLee/Flowd)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat&logo=qt&logoColor=white)
+
+PyQt6 desktop application built for the **Amazon Nova Hackathon** that turns high-level task descriptions into interactive software flowcharts and generated code.
+
+- **Flowchart-Driven Code Generation:** Translates project descriptions into structured flowchart JSON and generates code step-by-step via Amazon Nova models.
+- **AST-Aware Context:** Scans repositories into an AST map enriched with AI-generated docstrings to improve downstream code generation prompts.
+- **Integrated Workspace:** Combines a visual flowchart canvas, code editor, AI chat, and terminal panels in a single desktop app.
 
 ---
 
